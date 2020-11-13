@@ -2,8 +2,8 @@
 var dog,happyDog,database,foodS,foodStock,snacks,fedTime,lastFed,foodObj,currHour
 function preload()
 {
-  dogImage = loadImage("images/dogImg.png")
-  dogImageHappy = loadImage("images/dogImg1.png")
+  dogImage = loadImage("test/dogImg.png")
+  dogImageHappy = loadImage("test/dogImg1.png")
 
 }
 
